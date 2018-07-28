@@ -46,7 +46,7 @@ public class FirstOrderLogic {
 					if(!dup){
 						KBmap.get(str).add(index);
 					}
-				}
+				} 
 				else{
 					ArrayList<Integer> indexlist = new ArrayList<Integer>();
 					indexlist.add(index);
