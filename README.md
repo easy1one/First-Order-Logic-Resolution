@@ -4,7 +4,7 @@ ref. [first order logic](https://en.wikipedia.org/wiki/First-order_logic)
 <br /><br />
 
 ## Defined operators
-- Knowledge bases which I created to handle each case contians sentences with the following defined operators:
+- Knowledge bases which I create to handle each case contians sentences with the following defined operators:
 ```
 NOT X     =>     ~X
 X OR Y    =>     X | Y
