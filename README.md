@@ -9,7 +9,6 @@ ref. [first order logic](https://en.wikipedia.org/wiki/First-order_logic)
 NOT X     =>     ~X
 X OR Y    =>     X | Y
 ```
-<br />
 
 ## Code Explanation
 ## 1. input.txt in inputs folder
