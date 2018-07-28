@@ -46,10 +46,11 @@ public static boolean getAnswer(String query)
 ```
 
 ## 3. output.txt in outputs folder
-> <ANSWER 1><br />
-> . . .<br />
-> <ANSWER NQ><br />
-> ...
+```
+<ANSWER 1>
+. . .
+<ANSWER NQ>
+```
   
 - __Example 1__ <br />
 ```
