@@ -12,14 +12,14 @@ X OR Y    =>     X | Y<br />
 ## Code Explanation
 ## 1. input.txt in inputs folder
 ```
-> <NQ = NUMBER OF QUERIES>
-> <QUERY 1>
-> . . .
-> <QUERY NQ>
-> <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
-> <SENTENCE 1>
-> . . .
-> <SENTENCE NS>
+<NQ = NUMBER OF QUERIES>
+<QUERY 1>
+. . .
+<QUERY NQ>
+<NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
+<SENTENCE 1>
+. . .
+<SENTENCE NS>
 ```
 
 - __Example 1,__
