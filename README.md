@@ -11,14 +11,16 @@ X OR Y    =>     X | Y<br />
 
 ## Code
 ## 1. input.txt in inputs folder
-> <NQ = NUMBER OF QUERIES><br />
-> <QUERY 1><br />
-> . . .<br />
-> <QUERY NQ><br />
-> <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE><br />
-> <SENTENCE 1><br />
-> . . .<br />
-> <SENTENCE NS><br />
+```
+> <NQ = NUMBER OF QUERIES>
+> <QUERY 1>
+> . . .
+> <QUERY NQ>
+> <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
+> <SENTENCE 1>
+> . . .
+> <SENTENCE NS>
+```
 
 - __Example 1,__
 ```
