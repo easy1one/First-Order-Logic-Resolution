@@ -9,7 +9,7 @@ NOT X     =>     ~X<br />
 X OR Y    =>     X | Y<br />
 <br /><br />
 
-## Code
+## Code Explanation
 ## 1. input.txt in inputs folder
 ```
 > <NQ = NUMBER OF QUERIES>
