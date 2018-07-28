@@ -7,16 +7,16 @@ ref. [first order logic](https://en.wikipedia.org/wiki/First-order_logic)
 NOT X     =>     ~X
 X OR Y    =>     X | Y
 
-# Code
-## input.txt in inputs folder
-> <NQ = NUMBER OF QUERIES>
-> <QUERY 1>
-> ...
->  <QUERY NQ>
-> <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
-> <SENTENCE 1>
-> ...
-> <SENTENCE NS>
+## Code
+## 1. input.txt in inputs folder
+> <NQ = NUMBER OF QUERIES><br />
+> <QUERY 1><br />
+> ...<br />
+>  <QUERY NQ><br />
+> <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE><br />
+> <SENTENCE 1><br />
+> ...<br />
+> <SENTENCE NS><br />
 
 - __Example 1,__
 ```
@@ -32,7 +32,7 @@ Father(Charley,Billy)
 ~Parent(x,y) | ~Ancestor(y,z) | Ancestor(x,z)
 ```
 
-## firstLogicOrder.java
+## 2. firstLogicOrder.java
 Based on the given senteces in the knowledge bases in input.txt, firstLogicOrder will determine if the query can be inferred from the knowledge base or not for each query.
 - To create knowledge base with Map
 ```
@@ -43,10 +43,10 @@ public static HashMap<String, ArrayList<Integer>> createKBmap()
 public static boolean getAnswer(String query)
 ```
 
-## output.txt in outputs folder
-> <ANSWER 1>
-> ...
-> <ANSWER NQ>
+## 3. output.txt in outputs folder
+> <ANSWER 1><br />
+> ...<br />
+> <ANSWER NQ><br />
 
 - __Example 1__ <br />
 ```
