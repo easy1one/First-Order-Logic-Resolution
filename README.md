@@ -13,11 +13,11 @@ X OR Y    =>     X | Y<br />
 ## 1. input.txt in inputs folder
 > <NQ = NUMBER OF QUERIES><br />
 > <QUERY 1><br />
-
+> . . .<br />
 > <QUERY NQ><br />
 > <NS = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE><br />
 > <SENTENCE 1><br />
-
+> . . .<br />
 > <SENTENCE NS><br />
 
 - __Example 1,__
@@ -47,9 +47,10 @@ public static boolean getAnswer(String query)
 
 ## 3. output.txt in outputs folder
 > <ANSWER 1><br />
-
+> . . .<br />
 > <ANSWER NQ><br />
-
+> ...
+  
 - __Example 1__ <br />
 ```
 TRUE
