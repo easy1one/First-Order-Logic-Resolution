@@ -40,7 +40,7 @@ public static HashMap<String, ArrayList<Integer>> createKBmap()
 ```
 - To determine if the query could be inferred
 ```
-public static boolean getAnswer(String query){
+public static boolean getAnswer(String query)
 ```
 
 ## output.txt in outputs folder
