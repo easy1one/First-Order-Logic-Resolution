@@ -1,0 +1,10 @@
+1
+Breaks13(S.M.,MyRoomba)
+7
+Roomba13(R)
+Owns13(Jack,R)
+~Roomba13(y) | ~Owns13(x,y) | Robot_enthusiast13(x)
+~Robot_enthusiast13(x) | ~Robot13(y) | ~Breaks13(x,y)
+Breaks13(Jack,MyRoomba) | Breaks13(S.M.,MyRoomba)
+Roomba13(MyRoomba)
+~Roomba13(x) | Robot13(x)
