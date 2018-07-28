@@ -1,11 +1,13 @@
 # First-Order-Logic-Resolution
 Find out the True/False of a given statement based on the knowledge sets using first-order logic resolution<br />
 ref. [first order logic](https://en.wikipedia.org/wiki/First-order_logic)
+<br /><br />
 
 ## Defined operators
 - Knowledge bases which I created to handle each case contians sentences with the following defined operators:
-NOT X     =>     ~X
-X OR Y    =>     X | Y
+NOT X     =>     ~X<br />
+X OR Y    =>     X | Y<br />
+<br /><br />
 
 ## Code
 ## 1. input.txt in inputs folder
